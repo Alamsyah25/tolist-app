@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TOLIST</string>
+    <string name="title">Pramudya - Tedi</string>
+    <string name="student_1">41519110115 - Tedi Alamsyah</string>
+    <string name="student_2">41519110177 - Pramudya Saputra</string>
+    <string name="todo_title">TODO</string>
+    <string name="task_title">Task</string>
+    <string name="no_data_title">Yah kosong :(</string>
+    <string name="no_data_subtitle">Dompet boleh kosong, tapi TODO kudu terisi dong. Yuk, buat TODO kamu :D.</string>
+    <string name="delete_title">Click here for delete..</string>
+
+
+</resources>
